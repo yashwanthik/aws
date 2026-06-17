@@ -1,4 +1,1 @@
-Flask
-Flask-MySQLdb
-python-dotenv
-mysql-client
+c
