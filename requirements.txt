@@ -1,1 +1,4 @@
-c
+Flask
+Flask-MySQLdb
+python-dotenv
+boto3
